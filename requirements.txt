@@ -1,0 +1,4 @@
+splunk-sdk
+requests
+matplotlib
+plotly
