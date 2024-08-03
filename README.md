@@ -1,3 +1,6 @@
+"""The SIEM Tool Integration Project aims to integrate with Security Information and Event Management (SIEM) tools, such as Splunk, to collect, analyze, and visualize security event data. The project enhances the organization's security posture by providing valuable insights and facilitating rapid response to security incidents. It involves using Python for scripting and automation, Splunk SDK for integration, and various other technologies to achieve seamless interaction with SIEM tools."""
+
+
 # SIEM Tool Integration Project
 
 ## Project Setup
